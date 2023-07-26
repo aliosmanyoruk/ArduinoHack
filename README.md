@@ -1,6 +1,46 @@
+## English
+
 ## Arduino Hacking Project for ATtiny85 Flash
 
+This project is designed to hack the flash memory on the Arduino ATtiny85 microcontroller. This allows you to customize the Arduino's operation and add new features.
+
+## Installation
+
+To install the project, follow these steps:
+
+1. Clone the project from GitHub.
+2. Go to the project directory.
+3. Run the `make` command.
+4. Run the `./arduino-hacking` command.
+
+## Usage
+
+To use the project, follow these steps:
+
+1. Open the Arduino IDE.
+2. Select the `File` > `Open` menu and select the `arduino-hacking.ino` file.
+3. Click the `Upload` button.
+
+## Features
+
+The project includes the following features:
+
+* An interface that allows you to customize the Arduino's operation.
+* A compiler that allows you to add new features.
+* A tool that allows you to hack the Arduino's flash memory.
+
+## Developers
+
+The following information is provided for developers who want to contribute to the project:
+
+* The project's source code is published on GitHub.
+
+* ## Arduino Hacking Project for ATtiny85 Flash
+
 Bu proje, Arduino'nun ATtiny85 mikrodenetleyicisinde bulunan flash belleği hacklemek için tasarlanmıştır. Bu, Arduino'nun çalışmasını özelleştirmenize ve yeni özellikler eklemenize olanak tanır.
+
+
+## Türkçe
 
 ## Kurulum
 
@@ -39,42 +79,7 @@ Projeye katkıda bulunmak isteyen geliştiriciler için aşağıdaki bilgiler sa
 
 Bu projenin oluşturulmasına katkıda bulunan herkese teşekkür ederiz. Bu kişilere teşekkür ederek projenin geliştirilmesine katkıda bulunmuş olursunuz.
 
-## English
 
-## Arduino Hacking Project for ATtiny85 Flash
-
-This project is designed to hack the flash memory on the Arduino ATtiny85 microcontroller. This allows you to customize the Arduino's operation and add new features.
-
-## Installation
-
-To install the project, follow these steps:
-
-1. Clone the project from GitHub.
-2. Go to the project directory.
-3. Run the `make` command.
-4. Run the `./arduino-hacking` command.
-
-## Usage
-
-To use the project, follow these steps:
-
-1. Open the Arduino IDE.
-2. Select the `File` > `Open` menu and select the `arduino-hacking.ino` file.
-3. Click the `Upload` button.
-
-## Features
-
-The project includes the following features:
-
-* An interface that allows you to customize the Arduino's operation.
-* A compiler that allows you to add new features.
-* A tool that allows you to hack the Arduino's flash memory.
-
-## Developers
-
-The following information is provided for developers who want to contribute to the project:
-
-* The project's source code is published on GitHub.
 * Bug reports can be submitted through the Issues page on GitHub.
 * New features can be suggested through the Pull Requests page on GitHub.
 
